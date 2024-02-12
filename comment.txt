@@ -1,0 +1,12 @@
+<section class="main_menu">
+	<div class="container">
+		<div class="main_column">
+			<div class="left_column">
+			
+			</div>
+			<div class="right_column">
+				
+			</div>
+		</div>
+	</div>
+</section>
